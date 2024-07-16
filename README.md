@@ -22,29 +22,29 @@ Insights and Conclusions: Summarizing the insights drawn from the analysis.
 ## Getting Started
 To get a copy of this project up and running on your local machine, follow these steps:
 
-## Clone the repository:
+### Clone the repository:
 sh
 Copy code
 git clone https://github.com/Akanksha-Nakati/Amazon-Electronic-Products-Sales-Analysis.git
-## Navigate to the project directory:
+### Navigate to the project directory:
 sh
 Copy code
 cd Amazon-Electronic-Products-Sales-Analysis
-## Install the necessary libraries:
+### Install the necessary libraries:
 sh
 Copy code
 pip install -r requirements.txt
-## Run the Jupyter Notebook:
+### Run the Jupyter Notebook:
 sh
 Copy code
 jupyter notebook Amazon_Electronic_Sales_Analysis.ipynb
-## Prerequisites
+### Prerequisites
 Ensure you have the following installed:
 
 Python 3.x
 Jupyter Notebook
 Required Python libraries (listed in requirements.txt)
-## Libraries Used
+### Libraries Used
 pandas
 numpy
 matplotlib
@@ -53,20 +53,20 @@ seaborn
 
 # Analysis Overview
 
-## Data Exploration
+### Data Exploration
 Overview of the dataset and basic statistics.
 Visualization of sales distribution across different categories.
 
-## Data Cleaning
+### Data Cleaning
 Handling missing values.
 Correcting data types.
 
-## Data Analysis
+### Data Analysis
 Analyzing rating distributions.
 Time series analysis of sales.
 Category-wise sales performance.
 
-## Insights and Conclusions
+### Insights and Conclusions
 Summarizing key findings from the analysis.
 Recommendations based on the data insights.
 
