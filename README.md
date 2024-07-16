@@ -4,7 +4,7 @@
 This repository contains the analysis of electronics sales data from Amazon, focusing on user ratings, item categories, and sales time. The project aims to derive insights and patterns from the dataset to understand the sales dynamics of electronic products on Amazon.
 
 ## Dataset
-The dataset used in this analysis is sourced from Kaggle and can be accessed here. It includes information on:
+The dataset used in this analysis is sourced from Kaggle and can be accessed here https://www.kaggle.com/datasets/edusanketdk/electronics. It includes information on:
 
 User ratings for various electronic items
 Categories of each item
